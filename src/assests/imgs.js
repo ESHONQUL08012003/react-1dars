@@ -5,6 +5,10 @@ import img4 from './png/img4.png'
 import img5 from './png/img5.png'
 import img6 from './png/img6.png'
 import img7 from './png/img7.png'
+import avatr from "./svg/avatar.svg"
+import elips from "./png/elips.png"
+import carusel from "./png/carusel.png"
+import cardImg from "./png/card.png"
 
 export {img1}
 export {img2}
@@ -13,3 +17,7 @@ export {img4}
 export {img5}
 export {img6}
 export {img7}
+export {avatr}
+export {elips}
+export {carusel}
+export {cardImg}
